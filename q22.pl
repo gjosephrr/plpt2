@@ -8,4 +8,4 @@ read(Y),
 read(X),
 del(X,Y,G),
 write(G),nl,
-halt(0).
+halt(0). 
